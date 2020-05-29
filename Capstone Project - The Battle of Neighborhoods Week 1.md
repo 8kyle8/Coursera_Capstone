@@ -1,4 +1,6 @@
-# Capstone Project - The Battle of Neighborhoods
+# Capstone Project - The Battle of Neighborhoods (Week 1)
+
+*Kyle Bao | 29 May 2020 | IBM Applied Data Science Capstone Project*
 
 ## Introduction
 
